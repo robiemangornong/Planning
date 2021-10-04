@@ -1,0 +1,61 @@
+body { 
+	margin: 0; 
+	padding: 0px;
+	
+	 }
+
+.block1 {
+      	text-align: left;
+      	margin-left: 4em;
+      	margin-top: 1em;
+      	float: left;  
+      	margin-right: 10em;	
+      	margin-bottom: 2em;
+      	
+		}
+	.logo {
+		width: 4em;
+		height: auto;
+		margin-top: 1.5em;
+		margin-right: 1em;
+		float: left;
+
+			}
+
+	h1 {
+	font-family: 'Oswald', sans-serif; 
+	color: black;
+	text-shadow:   2px  2px 4px lightblue,
+                -2px -2px 4px lightblue;
+	font-size: 4em;
+	display: inline-block;
+	margin: 0em;
+	padding-top: 0.1em;
+	
+		}
+	
+div.menu {
+	float: right;
+	margin-top: 3em; 
+	
+		}
+
+	nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	padding-right: 2em;
+			  }
+
+
+	nav ul li a {
+	text-decoration: overline;
+	text-transform: uppercase; 
+	color: black;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 1em;
+				}
+
+	a:hover {
+	color: black;
+	text-decoration: underline;
+			}
