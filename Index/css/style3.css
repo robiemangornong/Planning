@@ -59,3 +59,53 @@ div.menu {
 	color: black;
 	text-decoration: underline;
 			}
+
+.documentazione {
+	font-family: 'Quicksand', sans-serif;
+	display: inline-block;
+}
+	h3 {
+		text-decoration: underline;
+	}
+
+	table {
+		text-align: left;
+		background-color: #c6d9d9; 
+		width: 100%;
+		height: auto;
+		padding: 5em;
+		  }
+
+	h3.none {
+		text-decoration: none;
+	}
+
+	img.albero {
+		width: 20em;
+		height: auto;
+		margin-bottom: 0em;
+		padding: 0em;
+
+	}
+
+	h5 {
+		margin: 0em;
+	}
+
+	img.wireframe {
+		width: 25em;
+		height: auto;
+		margin-right: 5em;
+		margin-left: 3em;
+		border-style: solid;
+		border-width: 0.1em;
+		border-color: black;
+	}
+
+	img.valutazione {
+		width: 20em;
+		height: auto;
+		text-align: center;
+		margin-right: 5em;
+		margin-left: 5em;
+	}
